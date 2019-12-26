@@ -18,5 +18,3 @@ __pycache__
 scripts
 z_celery
 celery_sms
-
-migrations

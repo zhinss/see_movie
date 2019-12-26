@@ -105,8 +105,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'see_movie',
-        'USER': 'root',
-        'PASSWORD': '',
+        'USER': 'movie',
+        'PASSWORD': 'Movie123?',
     }
 }
 
