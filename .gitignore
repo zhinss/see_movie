@@ -1,0 +1,22 @@
+# ��־
+*.log
+*.logger
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ��������
+__pycache__
+
+# ���ز��Խű�
+scripts
+z_celery
+celery_sms
+
+migrations
